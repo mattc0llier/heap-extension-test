@@ -1,7 +1,7 @@
 {
-  "name": "rrweb-chrome-extension",
+  "name": "heap-browser-extension",
   "version": "0.1.0",
-  "description": "The chrome extension of rrweb which helps to run rrweb on any website out of box",
+  "description": "run heap.io analytics in a browser extension",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
